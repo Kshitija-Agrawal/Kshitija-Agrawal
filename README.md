@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kshitija Agrawal
 
-<!--
-**Kshitija-Agrawal/Kshitija-Agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A Data Enthusiast turning data into insights
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
+I am passionate about unlocking stories hidden in data through analysis, visualization, and insights. Here you'll find my projects, analyses, dashboards, and learning experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 About Me
+
+* 📊 Aspiring Data Analyst | Data Science Learner
+* 🛠️ Exploring tools like **Python**, **R**, **SQL**, **Power BI**, **Tableau**, and **Excel**
+* 📝 Sharing projects on **Data Cleaning**, **Visualization**, **EDA**, and **Storytelling**
+* 🎯 Focused on making data-driven decisions
+
+---
+
+## 🛠️ Tools & Technologies I Use
+* 📊 Power BI | Tableau | Excel
+* 🐍 Python (Pandas, Matplotlib, Seaborn)
+* 💾 SQL | R
+* 📈 Data Visualization | 📂 Data Cleaning | 🔍 Exploratory Data Analysis
+
+---
+
+## 📚 What You’ll Find Here
+
+* 📂 Data Analysis Case Studies
+* 📈 Visualization Projects
+* 📊 Power BI & Tableau Dashboards
+* 📑 SQL Queries and Reports
+* 💻 Python/R Scripts for EDA & Automation
+
+---
+
+## 📚 I'm Currently Learning
+
+📌 Advanced Python for Data Analysis
+📌 Complex SQL Joins & Window Functions
+📌 Power BI DAX Expressions
+📌 Data Storytelling Techniques
+📌 Time Series Analysis
+📌 Portfolio Project Building
+
+
+
+
+
+---
+
+## 💬 Let’s Connect!
+
+* 📧 Email: [youremail@example.com](kshitijaagrawal2@gmail.com)
+
+---
+
+*“Turning data into actionable insights.”*
+
+
