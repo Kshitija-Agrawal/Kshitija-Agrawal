@@ -51,7 +51,7 @@ I am passionate about unlocking stories hidden in data through analysis, visuali
 
 ## 💬 Let’s Connect!
 
-* 📧 Email: [youremail@example.com](kshitijaagrawal2@gmail.com)
+* 📧 Email:kshitijaagrawal2@gmail.com
 
 ---
 
